@@ -1,0 +1,1 @@
+import{b as r}from"./chunk-AI32RVC6.js";var c=(()=>{let t=class t{setData(o){this.data=o}getData(){return this.data}constructor(){this.data=[]}};t.\u0275fac=function(e){return new(e||t)},t.\u0275prov=r({token:t,factory:t.\u0275fac,providedIn:"root"});let a=t;return a})();export{c as a};
